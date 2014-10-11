@@ -1,1 +1,1 @@
-#Rudy on Rails Tutorial: FirstApp
+#Ruby on Rails Tutorial: FirstApp
